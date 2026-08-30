@@ -4,8 +4,8 @@ def greet():
 def greetWhite():
     print("hello white")
 
-def greetWhite():
-    print("hello white")
+def greetBlack():
+    print("hello black")
 
 if __name__ == "__main__":
     greet()
